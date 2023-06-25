@@ -1,0 +1,32 @@
+.bg1{
+    background-color: red;
+}
+
+.home_container{
+    padding: 20px;
+    
+}
+.active{
+    background-color: greenyellow;
+}
+.disable{
+    background-color: gray;
+}
+.component1{
+    height: 70px;
+    background-color: aqua;
+    margin: 10px;
+}
+.images{
+
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #e2e2;
+}
+.item_person{
+    display: flex;
+    padding: 15px 0;
+    border-bottom: 1px solid black;
+    gap: 20px;
+}

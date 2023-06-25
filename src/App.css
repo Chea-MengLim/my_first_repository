@@ -1,0 +1,8 @@
+.menu-bar{
+    padding: 25px;
+    background-color: antiquewhite;
+}
+.menu-bar .Link{
+    padding: 20px;
+    text-decoration: none;
+}
