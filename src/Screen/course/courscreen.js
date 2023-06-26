@@ -1,6 +1,6 @@
 const CourseScreen = () => {
     return (
-        <div> Hi list course </div>
+        <div> Hi list course and I have updated this code </div>
     )
 }
 
